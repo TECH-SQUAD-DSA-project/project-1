@@ -1,4 +1,4 @@
-# Snake Game
+# Snake Game by TECH SQUAD team
 
 This is a simple console-based Snake Game implemented in C++.
 
@@ -58,4 +58,7 @@ cd snake-game
 
 ## Contribution
 Feel free to submit pull requests or open issues to improve the game!
+
+## Learning 
+We learn many new things and have explored around in the technical world and we really enjoyed the journey.
 
